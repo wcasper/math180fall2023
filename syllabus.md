@@ -11,18 +11,18 @@ permalink: /syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** 3-4 PM M,T,W.  Additional office hours are always available by request.
+**Office hourse:** To be announced.
 
 **Course website:** we will use Canvas website (Fall MATH 180-01 20140), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2022">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ___
 
 ## Course meeting information
-* Section: 01-02
+* Section: 01 and 03
 * Course ID: 20140-20141
-* Time: TTh 10:00AM-11:50AM and 12:00PM-1:50PM
-* Meeting Dates: 08/20/2022-12/09/2022
-* Location: MH 565
+* Time: TTh 10:00AM-11:50AM or 1:00PM-2:50PM
+* Meeting Dates: 08/20/2022-12/15/2022
+* Location: MH 565 or MH 563
 
 ___
 
