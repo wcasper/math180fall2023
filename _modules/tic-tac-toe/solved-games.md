@@ -28,7 +28,8 @@ What about if you take over a game for a friend in the middle?  Games where a st
 
 ### Instructions
 
-Discuss in careful detail what the perfect strategy is for the first player (*P1*) in tic-tac-toe.  Make sure your strategy clearly describes
+Describe in precise detail what the perfect strategy is for the first player (*P1*) in $$3\times 5$$ Chomp.
+Make sure your strategy clearly describes
 * Where *P1* should play first
 * Where *P1* should play in response to every possible first move by *P2*
 * Where *P1* should play in response to every possible second move by *P2*
@@ -36,4 +37,5 @@ Discuss in careful detail what the perfect strategy is for the first player (*P1
 * ... and so on
 
 Write down your strategy and then scan and upload it to Canvas.
+
 
