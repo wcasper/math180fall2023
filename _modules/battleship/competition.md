@@ -20,7 +20,7 @@ That's right folks.  It could be **food**.  It could be **swag**.  It could be *
 ### Instructions
 Your group must agree on what you think will be the best strategy for sinking a standard fleet in Battleship in as few shots as possible.  You must then describe your strategy in a single page, typed up.  Only **one submission per group** is allowed.  Your strategy can be super elaborate, but you have to be able to describe it in a very clear and detailed way on a **single page**.  If what you want done is not clear from how it is written, the submission will need to be revised by the group.  Part of the idea of the exercise is thinking about how to be precise with language.  Communicating technical information to other people in a clear way is a key part of math!  Some examples of possible submissions are given below.  (Hopefully your strategy is more clever though!)
 
-* Submission deadline: midnight on September 17th
+* Submission deadline: midnight on September 26th
 * Submissions are mandatory and will be graded.
 
 For some example strategies that have been proposed by students in the past, see [old strategies](old-strategies).
