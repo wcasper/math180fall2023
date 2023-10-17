@@ -42,4 +42,11 @@ We call a set of natural numbers $$S$$ a "Putnam set" if it satisfies the follow
 * (c) If $$S$$ is a Putnam set of integers, what integers are guaranteed to belong to $$S$$, based on these axioms?
 
 
+## Peano Axioms
+
+Use the Peano Axioms to prove each of the following.
+
+* (a) $$1\neq 2$$
+* (b) $$1\neq 3$$ and $$2\neq 3$$
+
 
