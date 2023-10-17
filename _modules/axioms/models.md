@@ -1,3 +1,9 @@
+---
+layout: page
+title: Axiomatic Systems
+permalink: /modules/axioms/models
+---
+
 <h2 style="text-align: center;">Models</h2>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://csufullerton.instructure.com/courses/3309029/files/216907640/preview" alt="image of famous male model Derek Zoolander" data-ally-user-updated-alt="image of famous male model Derek Zoolander" data-api-endpoint="https://csufullerton.instructure.com/api/v1/courses/3309029/files/216907640" data-api-returntype="File" /></p>
 <p>A <strong>model</strong> for an axiomatic system is when we <strong>define</strong> the undefined terms in our axiomatic system as members of a certain set, in a way which is consistent with the axioms.</p>
