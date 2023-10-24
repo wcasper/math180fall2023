@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cardinaltiy Homework 1
+title: Cardinality Homework 1
 permalink: /modules/cardinality/homework1
 ---
 
