@@ -66,3 +66,5 @@ Is there a $$n\times n\times n$$ three-dimensional version of a magic square, wh
 
 20. What is the largest possible diameter you can get from a connected graph made from a Micro Robots board?
 
+21. Suppose you have 19 smaller hexigons, all labelled with the numbers 1 through 19.  Is it possible to arrange them into a single large hexigon, where every straight line adds up to 38?  How many ways?
+
