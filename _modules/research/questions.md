@@ -68,3 +68,4 @@ Is there a $$n\times n\times n$$ three-dimensional version of a magic square, wh
 
 21. Suppose you have 19 smaller hexigons, all labelled with the numbers 1 through 19.  Is it possible to arrange them into a single large hexigon, where every straight line adds up to 38?  How many ways?
 
+22. Using the official Micro Robots boards, what kinds of graphs can we obtain?  What is the maximum diameter?  What is the average diameter?
