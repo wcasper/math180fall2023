@@ -72,4 +72,6 @@ Is there a $$n\times n\times n$$ three-dimensional version of a magic square, wh
 
 23. What positive integer values $$n$$ satisfy $$\tan(n) > n$$?  What can you say about their prime factorizations?
 
+24. How many ways are there to place all the chess pieces on a chess board?
+
 
