@@ -74,4 +74,4 @@ Is there a $$n\times n\times n$$ three-dimensional version of a magic square, wh
 
 24. How many ways are there to place all the chess pieces on a chess board?
 
-
+25. What's the smallest number of clues that one can use to make a Sudoku puzzle that still has a unique solution?
