@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Report Draft 1
-permalink: /modules/research/draft1
+title: Research Report Draft
+permalink: /modules/research/draft
 ---
 
 Your assignment is to upload a pdf copy of the current draft of your research report.
@@ -10,7 +10,7 @@ Make sure that it has all of the required sections mentioned in <a href="report"
 For an example template of your research report, please look at:
 * <a href="https://docs.google.com/document/d/1oWSsN8E-kkXG4sDCpcB1h9OTaHKD2ixrNvqBGZ0tMbo/edit?usp=sharing">example project report</a>
 
-Grading the **rough draft** will be based on having *some* content in place as well as all the required sections present in some form, even if they aren't filled out yet.
+Grading the **rough draft** will be based on having *some more* content in place as well as all the required sections present in some form, which should be beginning to get filled out in detail.
 
 Remember, the final draft of your report will be graded based on the following criteria:
 * Readability (1-4): was the paper well-written?  Were there lots of spelling or grammar mistakes?  Was it well-formatted, or are things just thrown in willy-nilly?

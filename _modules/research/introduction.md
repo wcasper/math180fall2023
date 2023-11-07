@@ -30,22 +30,20 @@ The timeline for our in-class research project is the following.
 |-----------------------------------|--------------------|
 |               task                |       timeline     | 
 |-----------------------------------|--------------------|
-|      get to know your team        |        10/25       |
-|     choose research question      |        10/25       |
-|     first one-on-one meeting      |     10/30-11/05    | 
-|     second one-on-one meeting     |     11/06-11/12    | 
-|     third one-on-one meeting      |     11/13-11/19    | 
-|     first written report draft    |        11/20       | 
-|    second written report draft    |        11/31       | 
-|     poster creation in class      |   12/01 and 12/06  |
-|     final written report due      |        12/06       | 
-|      mock poster conference       |        12/08       | 
+|    choose your research team      |        11/07       |
+|    pick your research question    |        11/07       |
+|    in-class research check-in     |        11/09       |
+|    in-class research check-in     |        11/16       |
+|       written report draft due    |        11/30       | 
+|     poster creation in class      |        12/05       |
+|     final written report due      |        12/07       | 
+|      mock poster conference       |        12/07       | 
 |-----------------------------------|--------------------|
 
 
-* For each of the three one-on-one meetings, your group will be responsible for scheduling a time to meet with me **outside of class** to talk about your progress in exploring the question that you picked.  During our meetings, we will talk about the current direction of your project and I will try to provide the best advice that I can in order to avoid dead-ends.  Ultimately, just as in real research, the progress your group makes on the project will depend on your effort, creativity, skill, and even luck!
-* I will give feedback on each of your groups research reports.  As seen above you will have two report drafts for the final draft, and it is expected that you will be still exploring the problem and updating the results in the meantime.
-* We will have time during multiple classes to create a research poster presenting our results in class.  We will also have a discussion about what presenting research in a poster is like, what the expectations are, and good conference etiquette.
+* For each of the in-class meetings, your group will be talking with me about your progress in exploring the question that you picked.  During our meetings, we will talk about the current direction of your project and I will try to provide the best advice that I can in order to avoid dead-ends.  Ultimately, just as in real research, the progress your group makes on the project will depend on your effort, creativity, skill, and even luck!
+* I will give feedback on each of your groups research reports.  As seen above you will have a report draft due before the final draft, and it's okay if you are still exploring the problem and updating the results in the meantime.
+* We will have time during class to create a research poster and present our results in class.  We will also have a discussion about what presenting research in a poster is like, what the expectations are, and good conference etiquette.
 * On the last day of class, we will have a research poster conference where each student group will present their posters and results.
 
 ## Evaluation 

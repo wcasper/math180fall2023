@@ -55,7 +55,7 @@ You may also choose your own research question, though you are required to get a
 
 15. If $$p$$ is a prime number, then the decimal expansion of $$1/p$$ will repeat periodically.  How many decimals does it take for the pattern to repeat.  Does the decimal expansion of every rational number repeat?
 
-16. Suppose you have a graph with $$10$$ vertices.  How many edges can the graph have before the graph has to have a triangle?
+16. How many ways are there to put four $$2\times 1$$ Destroyers in the standard $$10\times 10$$ Battleship fleet?
 
 17. In Sudoku, how many clues do you need in order to guarantee that the Sudoku puzzle has a unique solution?
 
@@ -69,3 +69,7 @@ Is there a $$n\times n\times n$$ three-dimensional version of a magic square, wh
 21. Suppose you have 19 smaller hexigons, all labelled with the numbers 1 through 19.  Is it possible to arrange them into a single large hexigon, where every straight line adds up to 38?  How many ways?
 
 22. Using the official Micro Robots boards, what kinds of graphs can we obtain?  What is the maximum diameter?  What is the average diameter?
+
+23. What positive integer values $$n$$ satisfy $$\tan(n) > n$$?  What can you say about their prime factorizations?
+
+
