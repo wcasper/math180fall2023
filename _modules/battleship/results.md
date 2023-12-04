@@ -11,13 +11,13 @@ The results of the Battleship Commander Competition are in!  Your mathematical p
 | team name  | average number of shots |
 | ---------  | ----------------------- |
 | Bubbles               | 55.2 | 
-| Empty Set             | 46.5 | 
+| **Empty Set**         | **46.5** | 
 | Kowtch                | 49.9 | 
 | PDFJ$$^3$$            | 49.7 | 
 | TNRR                  | 65.9 |
 | Team Mo               | 51.3 |
 | The Left              | 49.7 |
-| The Pink Panthers     | 49.6 | 
+| **The Pink Panthers** | **49.6** | 
 | The Smash Bros        | 51.4 | 
 | The Three Musketeers  | 52.3 |
 | Tic-Tac-Stub Your Toe | 51.1 |
