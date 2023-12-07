@@ -19,7 +19,7 @@ title: Math 180 Strategies of Problem Solving
 **Course meetings:** Tuesday and Thursday
 
 * Section 1: 10:00AM-11:50AM in MH 565
-* Section 2: 12:00PM-01:50PM in MH 563
+* Section 2: 01:00PM-02:50PM in MH 563
 
 **Office hours:** to be determined and by appointment
 
